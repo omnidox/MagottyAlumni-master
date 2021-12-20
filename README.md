@@ -1,3 +1,10 @@
+Project By The Mondays
+Rafael Hidalgo
+Nesreen Salah
+Davaughn Hoots
+Laura Paulino
+
+
 Installation of necessary software. 
 •	Nodejs: 
 o	Download Link:
