@@ -1,3 +1,10 @@
+// Project By The Mondays
+// Rafael Hidalgo
+// Nesreen Salah
+// Davaughn Hoots
+// Laura Paulino
+
+
 import Vue from 'vue'
 import App from './App.vue'
 import Router from './router'
